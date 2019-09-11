@@ -1,4 +1,4 @@
-<h1> ansible docker on jenkins</h1>
-<h2> via docker host  </h2>
-<h3> this is irritating me now </h3>
+<h1> playing with docker and ansible</h1>
+<h2> interesting gamet  </h2>
+<h3> let me do it now </h3>
 
